@@ -1,0 +1,15 @@
+//https://leetcode.com/problems/search-in-rotated-sorted-array/
+class Solution {
+    public:
+        int search(vector<int>& nums, int target) {
+            int i=0;
+            int n=nums.size();
+            for(i=0;i<n;i++)
+               {
+                if(nums[i]==target)
+                     return i;
+               }
+            
+       return -1 ;}
+    
+    };

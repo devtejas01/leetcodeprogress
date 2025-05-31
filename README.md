@@ -1,10 +1,19 @@
 # My Repository
-Welcome to my repository! Here, I will regularly post my coding progress, projects, and learning milestones.
+Welcome to My Repository!
+Here, I will regularly post my coding progress, projects, and learning milestones.
 
 About Me
-Hi, my name is Tejaswee. I am a B.Tech Computer Science and Engineering student at LNJPIT, Chapra, currently in my 2nd year.
+My name is Tejaswee.
 
-💻 What I Love
-I’m passionate about coding, solving problems, and building useful software solutions.
+I’m a B.Tech Computer Science and Engineering student at LNJPIT, Chapra.
+
+Currently in my 2nd year of study.
+
+What I Love
+Coding
+
+Problem-solving
+
+Building useful software solutions
 
 Stay tuned for updates as I continue learning and growing!
